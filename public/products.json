@@ -1,0 +1,385 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "iPhone 14",
+      "product_image": "https://i.ibb.co/TkPgY87/i-Phone-14-Blue.webp",
+      "category": "Phones",
+      "price": 799.99,
+      "description": "New iPhone with powerful performance and camera.",
+      "Specification": [
+        "Screen Size: 6.1 inches",
+        "Battery: 3279mAh",
+        "Storage: 128GB",
+        "Camera: 12MP Dual"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 2,
+      "product_title": "Samsung Galaxy S23",
+      "product_image": "https://i.ibb.co/88N67jK/Samsung-Galaxy-S23.webp",
+      "category": "Phones",
+      "price": 999.99,
+      "description": "Latest flagship smartphone with advanced features.",
+      "Specification": [
+        "Screen Size: 6.2 inches",
+        "Battery: 3700mAh",
+        "Storage: 256GB",
+        "Camera: 50MP Triple"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 3,
+      "product_title": "OnePlus 11",
+      "product_image": "https://i.ibb.co/dWC1Sy8/One-Plus-11.webp",
+      "category": "Phones",
+      "price": 749.99,
+      "description": "Powerful performance with a sleek design.",
+      "Specification": [
+        "Screen Size: 6.7 inches",
+        "Battery: 5000mAh",
+        "Storage: 256GB",
+        "Camera: 50MP Triple"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 4,
+      "product_title": "Google Pixel 7",
+      "product_image": "https://i.ibb.co/GRwKpM4/Google-Pixel-7.webp",
+      "category": "Phones",
+      "price": 599.99,
+      "description": "Smartphone with a fantastic camera and AI features.",
+      "Specification": [
+        "Screen Size: 6.3 inches",
+        "Battery: 4355mAh",
+        "Storage: 128GB",
+        "Camera: 50MP Dual"
+      ],
+      "availability": false,
+      "rating": 4.6
+    },
+    {
+      "product_id": 5,
+      "product_title": "Xiaomi 13 Pro",
+      "product_image": "https://i.ibb.co/G52Dtp2/Xiaomi-13-Pro.webp",
+      "category": "Phones",
+      "price": 899.99,
+      "description": "High-end smartphone with impressive specifications.",
+      "Specification": [
+        "Screen Size: 6.73 inches",
+        "Battery: 4820mAh",
+        "Storage: 256GB",
+        "Camera: 50MP Triple"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 6,
+      "product_title": "Sony Xperia 1 IV",
+      "product_image": "https://i.ibb.co/0Q9dyhz/Sony-Xperia-1-IV.webp",
+      "category": "Phones",
+      "price": 1299.99,
+      "description": "Flagship phone with 4K HDR display.",
+      "Specification": [
+        "Screen Size: 6.5 inches",
+        "Battery: 5000mAh",
+        "Storage: 256GB",
+        "Camera: 12MP Triple"
+      ],
+      "availability": false,
+      "rating": 4.7
+    },
+    {
+      "product_id": 7,
+      "product_title": "Nokia G50",
+      "product_image": "https://i.ibb.co/ZTk9G4P/Nokia-G50.webp",
+      "category": "Phones",
+      "price": 299.99,
+      "description": "Affordable 5G smartphone with good performance.",
+      "Specification": [
+        "Screen Size: 6.82 inches",
+        "Battery: 4500mAh",
+        "Storage: 64GB",
+        "Camera: 48MP Triple"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 8,
+      "product_title": "Motorola Edge 20",
+      "product_image": "https://i.ibb.co/RCfF42J/Motorola-Edge-20.webp",
+      "category": "Phones",
+      "price": 499.99,
+      "description": "Sleek smartphone with a stunning display.",
+      "Specification": [
+        "Screen Size: 6.7 inches",
+        "Battery: 4000mAh",
+        "Storage: 128GB",
+        "Camera: 108MP Triple"
+      ],
+      "availability": false,
+      "rating": 4.5
+    },
+    {
+      "product_id": 9,
+      "product_title": "Asus Zenfone 9",
+      "product_image": "https://i.ibb.co/gdXHWkj/Asus-Zenfone-9.webp",
+      "category": "Phones",
+      "price": 699.99,
+      "description": "Compact phone with top-notch performance.",
+      "Specification": [
+        "Screen Size: 5.9 inches",
+        "Battery: 4300mAh",
+        "Storage: 128GB",
+        "Camera: 50MP Dual"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 10,
+      "product_title": "Vivo X80 Pro",
+      "product_image": "https://i.ibb.co/RybhvGP/Vivo-X80-Pro.webp",
+      "category": "Phones",
+      "price": 1099.99,
+      "description": "Premium smartphone with excellent camera capabilities.",
+      "Specification": [
+        "Screen Size: 6.78 inches",
+        "Battery: 4700mAh",
+        "Storage: 256GB",
+        "Camera: 50MP Quad"
+      ],
+      "availability": false,
+      "rating": 4.7
+    },
+  
+    {
+      "product_id": 11,
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co/mcyZX4f/Dell-XPS-13.webp",
+      "category": "Computers",
+      "price": 999.99,
+      "description": "High-performance laptop with Intel Core i7 processor.",
+      "Specification": [
+        "Processor: Intel Core i7",
+        "RAM: 16GB",
+        "Storage: 512GB SSD",
+        "Screen Size: 13.4 inches"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 12,
+      "product_title": "MacBook Air M2",
+      "product_image": "https://i.ibb.co/vYpGVCr/Mac-Book-Air-M2.webp",
+      "category": "Computers",
+      "price": 1199.99,
+      "description": "Lightweight laptop with the latest Apple M2 chip.",
+      "Specification": [
+        "Processor: Apple M2",
+        "RAM: 8GB",
+        "Storage: 256GB SSD",
+        "Screen Size: 13.6 inches"
+      ],
+      "availability": false,
+      "rating": 4.8
+    },
+    {
+      "product_id": 13,
+      "product_title": "HP Spectre x360",
+      "product_image": "https://i.ibb.co/s3Hmz7W/HP-Spectre-x360.webp",
+      "category": "Computers",
+      "price": 1399.99,
+      "description": "Versatile 2-in-1 laptop with stunning display.",
+      "Specification": [
+        "Processor: Intel Core i7",
+        "RAM: 16GB",
+        "Storage: 1TB SSD",
+        "Screen Size: 13.3 inches"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 14,
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "https://i.ibb.co/sw2w0Xg/Lenovo-Think-Pad-X1-Carbon.webp",
+      "category": "Computers",
+      "price": 1349.99,
+      "description": "Business laptop with excellent battery life.",
+      "Specification": [
+        "Processor: Intel Core i7",
+        "RAM: 16GB",
+        "Storage: 512GB SSD",
+        "Screen Size: 14 inches"
+      ],
+      "availability": false,
+      "rating": 4.6
+    },
+    {
+      "product_id": 15,
+      "product_title": "Asus ROG Zephyrus G14",
+      "product_image": "https://i.ibb.co/31wGtqV/Asus-ROG-Zephyrus-G14.webp",
+      "category": "Computers",
+      "price": 1499.99,
+      "description": "Gaming laptop with powerful GPU.",
+      "Specification": [
+        "Processor: AMD Ryzen 9",
+        "RAM: 32GB",
+        "Storage: 1TB SSD",
+        "Screen Size: 14 inches"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 16,
+      "product_title": "Microsoft Surface Laptop 4",
+      "product_image": "https://i.ibb.co/Kszs612/Microsoft-Surface-Laptop-4.webp",
+      "category": "Computers",
+      "price": 999.99,
+      "description": "Stylish laptop with great performance.",
+      "Specification": [
+        "Processor: Intel Core i5",
+        "RAM: 8GB",
+        "Storage: 512GB SSD",
+        "Screen Size: 13.5 inches"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+  
+    {
+      "product_id": 17,
+      "product_title": "Anker 20W USB-C Charger",
+      "product_image": "https://i.ibb.co/5xFq3Jg/Anker-20-W-USB-C-Charger.webp",
+      "category": "Chargers",
+      "price": 15.99,
+      "description": "Compact charger with fast charging capabilities.",
+      "Specification": [
+        "Power Output: 20W",
+        "Port Type: USB-C",
+        "Fast Charging: Yes"
+      ],
+      "availability": false,
+      "rating": 4.3
+    },
+    {
+      "product_id": 18,
+      "product_title": "Apple MagSafe Charger",
+      "product_image": "https://i.ibb.co/7pWgYmm/Apple-Mag-Safe-Charger.webp",
+      "category": "Chargers",
+      "price": 39.99,
+      "description": "MagSafe charger for easy and efficient charging.",
+      "Specification": [
+        "Power Output: 15W",
+        "Port Type: MagSafe",
+        "Compatibility: iPhone 12 and later"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 19,
+      "product_title": "Anker PowerCore 10000",
+      "product_image": "https://i.ibb.co/tDFhxJG/Anker-Power-Core-10000.webp",
+      "category": "Power Banks",
+      "price": 25.99,
+      "description": "Portable power bank with high capacity.",
+      "Specification": [
+        "Capacity: 10000mAh",
+        "Ports: USB-A, USB-C",
+        "Fast Charging: Yes"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 20,
+      "product_title": "Xiaomi 20000mAh Power Bank",
+      "product_image": "https://i.ibb.co/g6Q6pwg/Xiaomi-20000m-Ah-Power-Bank.webp",
+      "category": "Power Banks",
+      "price": 29.99,
+      "description": "High-capacity power bank for multiple charges.",
+      "Specification": [
+        "Capacity: 20000mAh",
+        "Ports: USB-A, USB-C",
+        "Fast Charging: Yes"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+        "product_id": 21,
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i.ibb.co/P90XpRN/Apple-Watch-Series-8.webp",
+        "category": "Smart Watches",
+        "price": 399.99,
+        "description": "Advanced smartwatch with health tracking features.",
+        "Specification": [
+          "Screen Size: 1.9 inches",
+          "Battery Life: 18 hours",
+          "Water Resistance: Yes",
+          "Compatibility: iOS"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 22,
+        "product_title": "Samsung Galaxy Watch 5",
+        "product_image": "https://i.ibb.co/Rp4BpYp/Samsung-Galaxy-Watch-5.webp",
+        "category": "Smart Watches",
+        "price": 329.99,
+        "description": "Stylish smartwatch with fitness tracking capabilities.",
+        "Specification": [
+          "Screen Size: 1.4 inches",
+          "Battery Life: 40 hours",
+          "Water Resistance: Yes",
+          "Compatibility: Android"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 23,
+        "product_title": "Fitbit Versa 3",
+        "product_image": "https://i.ibb.co/yhct4rn/Fitbit-Versa-3.webp",
+        "category": "Smart Watches",
+        "price": 229.99,
+        "description": "Smartwatch with built-in GPS and heart rate monitoring.",
+        "Specification": [
+          "Screen Size: 1.58 inches",
+          "Battery Life: 6 days",
+          "Water Resistance: Yes",
+          "Compatibility: iOS and Android"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": 24,
+        "product_title": "Garmin Venu 2",
+        "product_image": "https://i.ibb.co/3mnwtPJ/Garmin-Venu-2.webp",
+        "category": "Smart Watches",
+        "price": 399.99,
+        "description": "Smartwatch with advanced health metrics and sports features.",
+        "Specification": [
+          "Screen Size: 1.3 inches",
+          "Battery Life: 11 days",
+          "Water Resistance: Yes",
+          "Compatibility: iOS and Android"
+        ],
+        "availability": true,
+        "rating": 4.8
+      }
+  ]
+  

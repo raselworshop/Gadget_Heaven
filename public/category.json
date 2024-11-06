@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "category": "All Products",
+      "slug": "All-products"
+    },
+    {
+      "id": 2,
+      "category": "Computers",
+      "slug": "computers"
+    },
+    {
+      "id": 3,
+      "category": "Phones",
+      "slug": "phones"
+    },
+    {
+      "id": 4,
+      "category": "Smart Watches",
+      "slug": "smart-watches"
+    },
+    {
+      "id": 5,
+      "category": "Chargers",
+      "slug": "chargers"
+    },
+    {
+      "id": 6,
+      "category": "Power Banks",
+      "slug": "power-banks"
+    },
+    {
+      "id": 7,
+      "category": "Others",
+      "slug": ""
+    }
+  ]
+  
