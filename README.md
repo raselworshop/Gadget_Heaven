@@ -37,8 +37,8 @@
 
 
 ## Live Links
-> [Surge Link](https://paltry-name.surge.sh/)
-> [Netlify Link](https://fabulous-alpaca-b69029.netlify.app/)
+> [Surge Link](https://elfin-lock.surge.sh/)
+> [Netlify Link](https://teal-fox-f86178.netlify.app/)
 
 > ## Git Repo Link [repo](https://github.com/programming-hero-web-course-4/b10a8-gadget-heaven-raselworshop)
 
