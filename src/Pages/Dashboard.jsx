@@ -1,8 +1,10 @@
+// import { Helmet } from "react-helmet-async";
 import { NavLink, Outlet } from "react-router-dom";
 
 const Dashboard = () => {
     return (
         <div>
+            {/* <Helmet><title>Gadget_Heaven | Dashboard</title></Helmet> */}
             <div className="bg-purple-700 text-white py-5">
                 <div className="flex flex-col items-center">
                     <h1 className="font-sora font-bold text-3xl mb-5 text-center">Dashboard</h1>
